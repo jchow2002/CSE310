@@ -1,0 +1,58 @@
+Jacky chow 113268425
+Note:
+The following ip outputs may subject to change due to changes in ip addesses of their company domain.
+Example inputs and outputs are listed below:
+--------------------------------------------------------------------------
+Input: www.google.com
+Output: 
+QUESTION SECTION:
+www.google.com. In A
+
+ANSWER SECTION:
+www.google.com. 300 IN A 172.217.13.132
+
+Query time: 107.66720771789551ms
+WHEN: 02/24/2022 16:21:14
+--------------------------------------------------------------------------
+Input: www.cnn.com
+Output: 
+QUESTION SECTION:
+www.cnn.com. In A
+
+ANSWER SECTION:
+turner-tls.map.fastly.net. 30 IN A 199.232.37.67
+
+Query time: 165.25578498840332ms
+WHEN: 02/24/2022 16:21:50
+---------------------------------------------------------------------------
+Input: www.amazon.com
+Output:
+QUESTION SECTION:
+www.amazon.com. In A
+
+ANSWER SECTION:
+pdns1.ultradns.net. 3600 IN A 204.74.108.1
+
+Query time: 102.98514366149902ms
+WHEN: 02/24/2022 16:22:11
+---------------------------------------------------------------------------
+Input:  www.cs.stonybrook.edu
+Output:
+QUESTION SECTION:
+www.cs.stonybrook.edu. In A
+
+ANSWER SECTION:
+ns-506.awsdns-63.com. 172800 IN A 205.251.193.250
+
+Query time: 434.86642837524414ms
+WHEN: 02/24/2022 16:22:59
+---------------------------------------------------------------------------
+Input: www.facebook.com
+QUESTION SECTION:
+www.facebook.com. In A
+
+ANSWER SECTION:
+star-mini.c10r.facebook.com. 60 IN A 157.240.241.35
+
+Query time: 164.92819786071777ms
+WHEN: 02/24/2022 16:26:36
